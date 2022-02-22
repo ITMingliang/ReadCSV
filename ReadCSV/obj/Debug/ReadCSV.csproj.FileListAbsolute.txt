@@ -1,0 +1,10 @@
+F:\Learning\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe.config
+F:\Learning\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe
+F:\Learning\ReadCSV\ReadCSV\bin\Debug\ReadCSV.pdb
+F:\Learning\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csproj.SuggestedBindingRedirects.cache
+F:\Learning\ReadCSV\ReadCSV\obj\Debug\ReadCSV.Form1.resources
+F:\Learning\ReadCSV\ReadCSV\obj\Debug\ReadCSV.Properties.Resources.resources
+F:\Learning\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csproj.GenerateResource.cache
+F:\Learning\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csproj.CoreCompileInputs.cache
+F:\Learning\ReadCSV\ReadCSV\obj\Debug\ReadCSV.exe
+F:\Learning\ReadCSV\ReadCSV\obj\Debug\ReadCSV.pdb
